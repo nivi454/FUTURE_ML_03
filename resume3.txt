@@ -1,3 +1,0 @@
-Data scientist with experience in Python, Machine Learning,
-Deep Learning, NLP and Scikit-learn.
-Worked on real world AI projects.
